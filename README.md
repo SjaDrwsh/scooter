@@ -1,4 +1,4 @@
-# Kick Sooter
+# Kick Scooter
 
 ### `yarn install`
 to install all nedded packages
