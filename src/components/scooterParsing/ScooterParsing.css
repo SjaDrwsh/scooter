@@ -1,0 +1,55 @@
+.scooter-parsing textarea{
+    min-width: 90%;
+    min-height: 8rem;
+    border: solid lightgreen;
+    padding: 1rem;
+}
+
+.scooter-parsing .sample-area p{
+    border: solid .2px grey;
+    padding: 1rem;
+    width: 90%;
+}
+
+.solution-area button{
+    box-shadow: 0 0 0 1px #21ba45 inset!important;
+    color: #21ba45!important;
+    margin-bottom: 0.75em;
+    font-weight: 400;
+    border-radius: .28571429rem;
+    text-transform: none;
+    text-shadow: none!important;
+    cursor: pointer;
+    min-height: 1em;
+    outline: 0;
+    border: none;
+    vertical-align: baseline;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    margin: 0 .25em 0 0;
+    padding: .78571429em 1.5em .78571429em;
+    line-height: 1em;
+    font-style: normal;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    text-decoration: none;
+    -webkit-appearance: button;
+    float: right;
+    margin: 1rem 5%;
+}
+
+.solution-area .error{
+    color: red;
+}
+
+.solution-area .output{
+   margin: 6rem 0;   
+}
+
+.solution-area .output div{
+    border: grey solid .05rem;
+    width: 90%;
+    padding: 1rem;
+    background: #d4d2d2;
+}
+
+
