@@ -1,5 +1,8 @@
 # Kick Scooter
 
+Result
+![scooter](https://user-images.githubusercontent.com/10211191/116161639-64e6a400-a6f4-11eb-8a41-c3e55182f740.gif)
+
 ### `yarn install`
 to install all nedded packages
 
@@ -28,7 +31,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-![scooter](https://user-images.githubusercontent.com/10211191/116161639-64e6a400-a6f4-11eb-8a41-c3e55182f740.gif)
+
 
 
 
