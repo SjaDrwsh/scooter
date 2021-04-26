@@ -1,4 +1,4 @@
-# Getting Started Kick Sooter
+# Kick Sooter
 
 ### `yarn install`
 to install all nedded packages
