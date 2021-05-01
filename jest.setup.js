@@ -27,8 +27,6 @@ module.exports = {
   testEnvironment: '<rootDir>/config/jest/testEnvironment.js',
   testPathIgnorePatterns: [
     '<rootDir>/node_modules/',
-    '<rootDir>/knowis-designer-commons/',
-    '<rootDir>/knowis-react-components/',
   ],
   testURL: 'http://localhost/#/',
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json'],
