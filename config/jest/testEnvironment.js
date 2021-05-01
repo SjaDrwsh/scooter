@@ -1,6 +1,4 @@
 /** Create a dedicated module that will be used for setting up the jsdom test environment. */
-// TODO:use this when we can delete again jest-environment-jsdom-sixteen
-//const JSDOMEnvironment = require('jest-environment-jsdom');
 const JSDOMEnvironment = require('jest-environment-jsdom-sixteen');
 
 /**
