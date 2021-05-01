@@ -24,8 +24,6 @@ module.exports = {
     '<rootDir>/config/',
     '<rootDir>/docs',
     '<rootDir>/helm-chart/',
-    '<rootDir>/knowis-designer-commons/',
-    '<rootDir>/knowis-react-components/',
     '<rootDir>/src/type',
     '<rootDir>/node_modules/',
     '<rootDir>/public/',
@@ -45,8 +43,6 @@ module.exports = {
   testEnvironment: '<rootDir>/config/jest/testEnvironment.js',
   testPathIgnorePatterns: [
     '<rootDir>/node_modules/',
-    '<rootDir>/knowis-designer-commons/',
-    '<rootDir>/knowis-react-components/',
   ],
   testURL: 'http://localhost/#/',
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json'],
